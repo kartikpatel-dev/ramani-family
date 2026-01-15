@@ -23,6 +23,11 @@
                     <h3 class="text-lg font-bold mb-2">Businesses</h3>
                     <p>Manage businesses linked with families.</p>
                 </a>
+
+                <a href="{{ route('banners.index') }}" class="p-6 bg-white rounded shadow">
+                    <h3 class="text-lg font-bold mb-2">Banners</h3>
+                    <p>Manage banners.</p>
+                </a>
             </div>
         </div>
     </div>
